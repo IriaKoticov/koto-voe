@@ -15,7 +15,7 @@
 
 ### Технологии:
 
-* **Frontend:** Dioxus (Rust), TailwindCSS
+* **Frontend:** Dioxus (Rust)
 * **Backend:** Axum (Rust), SQLx
 * **База данных:** PostgreSQL
 
